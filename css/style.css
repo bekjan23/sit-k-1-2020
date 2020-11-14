@@ -16,3 +16,8 @@ h1 {
 color: red;
 font-family: "Open Sans",sans-serif;
 }
+
+.nav {
+    margin: 0 auto;
+    max-width: 1555px;
+}
